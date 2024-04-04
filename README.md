@@ -12,11 +12,9 @@
 
 
 # DH-OER
-## Introduction 
-Collection of assets used when creating resources for Digital Humanities OER 
-Insert an animation of the software
-## Installation
-test
+## Introduction :south_africa:
+Digital Humanities Open Education Resources ([DH OER](https://escalator.sadilar.org/champions/dh-oer/)) is a mentorship project intended for South African Academics who are learning how to create Open Education Resources 
+
 
 
 
